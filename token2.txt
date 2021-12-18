@@ -1,4 +1,12 @@
 fio-u-NdqDfjg_JLNGLe3mbpY5Vx3Tn8MpabcM_1Ra8LAswHGnMaNfUe62T_4Qshncd_fI
 
+"frame.io": {
+            "api": {
+                "api_key": "fio-u-0scVQDPIR-zz15u3vgr8wjXbvm8yWu_DLmmHlocnZq1J0ToLE84GgkW0dVw0l3LI",
+                "project_name": "ForgeFA21",
+                "team_name": "FSU FILM"
+            }
+        },
+
 
 
